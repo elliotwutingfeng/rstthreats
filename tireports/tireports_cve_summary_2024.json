@@ -107,6 +107,12 @@
       "title": "Onyx Sleet uses array of malware to gather intelligence for North Korea",
       "url": "https://www.microsoft.com/en-us/security/blog/2024/07/25/onyx-sleet-uses-array-of-malware-to-gather-intelligence-for-north-korea",
       "date": "20240729"
+    },
+    {
+      "id": "20240809_facct_ru_report_0xb119bac5",
+      "title": "The Many Faces of Ransom: Who's Behind the Nokoyawa and INC Ransom Attacks",
+      "url": "https://www.facct.ru/blog/multi-faceted-ransom",
+      "date": "20240809"
     }
   ],
   "CVE-2023-46604": [
@@ -421,6 +427,12 @@
       "title": "Disrupting FlyingYeti's campaign targeting Ukraine",
       "url": "https://blog.cloudflare.com/disrupting-flyingyeti-campaign-targeting-ukraine",
       "date": "20240531"
+    },
+    {
+      "id": "20240809_securelist_ru_report_0xc024c31c",
+      "title": "Head Mare: unicorn adventures in Russia and Belarus",
+      "url": "https://securelist.ru/head-mare-hacktivists/110069",
+      "date": "20240809"
     }
   ],
   "CVE-2023-23397": [
@@ -2411,6 +2423,14 @@
       "title": "Inc Ransom Attack Analysis",
       "url": "https://www.reliaquest.com/blog/inc-ransom-attack-analysis",
       "date": "20240806"
+    }
+  ],
+  "CVE-2022-47986": [
+    {
+      "id": "20240809_facct_ru_report_0xb119bac5",
+      "title": "The Many Faces of Ransom: Who's Behind the Nokoyawa and INC Ransom Attacks",
+      "url": "https://www.facct.ru/blog/multi-faceted-ransom",
+      "date": "20240809"
     }
   ]
 }
