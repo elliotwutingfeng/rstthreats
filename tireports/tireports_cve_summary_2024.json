@@ -1347,6 +1347,12 @@
       "title": "Analysis of the APT31 indictment. Who is APT31?",
       "url": "https://harfanglab.io/en/insidethelab/apt31-indictment-analysis",
       "date": "20240416"
+    },
+    {
+      "id": "20240812_harfanglab_io_report_0x24a56d3f",
+      "title": "Analysis of the APT31 indictment",
+      "url": "https://harfanglab.io/insidethelab/apt31-indictment-analysis",
+      "date": "20240812"
     }
   ],
   "CVE-2023-1389": [
