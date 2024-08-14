@@ -2438,5 +2438,13 @@
       "url": "https://www.facct.ru/blog/multi-faceted-ransom",
       "date": "20240809"
     }
+  ],
+  "CVE-2023-34758": [
+    {
+      "id": "20240813_thedfirreport_com_report_0xbf9d4d6b",
+      "title": "Threat Actors Toolkit: Leveraging Sliver, PoshC2 & Batch Scripts",
+      "url": "https://thedfirreport.com/2024/08/12/threat-actors-toolkit-leveraging-sliver-poshc2-batch-scripts",
+      "date": "20240813"
+    }
   ]
 }
